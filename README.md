@@ -1,14 +1,14 @@
 <h1 align="center">⚡ Blood-Reaper ⚡</h1>
 
 <p align="center">
-Android Developer • AI Explorer • Future Doctor
+Backend Developer • AI Explorer • Android Developer • Graphic Designer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* Interested in **AI, Medicine, and Coding**
+* Interested in **AI, Backend and Coding**
 * Building **Android apps and intelligent systems**
 * Exploring **AI for healthcare**
 
@@ -33,8 +33,8 @@ Android Developer • AI Explorer • Future Doctor
 
 ## 🔥 Current Projects
 
-* Weather App (Android)
-* Agentic AI for Drug Repurposing
-* Android Caller Tune Automation
+* Power Sphere(Android)
+* Job Portal
+* Algorithum Analyzer 
 
 ---
