@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Explorer;Future+Doctor;Building+Intelligent+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Explorer;Backend+Developer;Building+Intelligent+Systems">
 </p>
 
 <h1 align="center">⚡ Blood-Reaper ⚡</h1>
