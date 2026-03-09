@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=200&section=header&text=Blood-Reaper&fontSize=40&fontColor=ffffff"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Explorer;Future+Doctor;Building+Intelligent+Systems">
+</p>
+
 <h1 align="center">⚡ Blood-Reaper ⚡</h1>
 
 <p align="center">
