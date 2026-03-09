@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">⚡ Blood-Reaper ⚡</h1>
 
-<!--
-**Blood-Reaper/Blood-Reaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Android Developer • AI Explorer • Future Doctor
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Interested in **AI, Medicine, and Coding**
+* Building **Android apps and intelligent systems**
+* Exploring **AI for healthcare**
+
+---
+
+## 🧠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=java\&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=00FFFF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=00FFFF)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge\&logo=android\&logoColor=00FFFF)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Blood-Reaper\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blood-Reaper\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Current Projects
+
+* Weather App (Android)
+* Agentic AI for Drug Repurposing
+* Android Caller Tune Automation
+
+---
