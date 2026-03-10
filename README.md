@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://github.com/Blood-Reaper/Blood-Reaper/blob/19f37287b4c09ba8f1bb40aae7499a4cb7e59151/chrome-capture-2026-03-10.gif"/>
+<img width="100%" src="chrome-capture-2026-03-10.gif"/>
 </p>
 
 <p align="center">
