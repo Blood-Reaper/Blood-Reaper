@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="chrome-capture-2026-03-10.gif"/>
+<img src="chrome-capture-2026-03-10.gif"/>
 </p>
 
 <p align="center">
