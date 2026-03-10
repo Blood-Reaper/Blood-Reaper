@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=200&section=header&text=Blood-Reaper&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src=<img width="100%" src="https://github.com/Blood-Reaper/Blood-Reaper/blob/19f37287b4c09ba8f1bb40aae7499a4cb7e59151/chrome-capture-2026-03-10.gif&text=Blood-Reaper&fontSize=40&fontColor=ffffff"/>/>
 </p>
 
 <p align="center">
