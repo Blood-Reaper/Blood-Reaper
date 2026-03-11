@@ -1,6 +1,7 @@
 <p align="center">
 <img src="chrome-capture-2026-03-10 (2).gif"/>
 </p>
+
 ---
 
 ## 🚀 About Me
