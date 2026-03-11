@@ -1,17 +1,6 @@
 <p align="center">
 <img src="chrome-capture-2026-03-10 (2).gif"/>
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Explorer;Backend+Developer;Building+Intelligent+Systems">
-</p>
-
-<h1 align="center">⚡ Blood-Reaper ⚡</h1>
-
-<p align="center">
-Backend Developer • AI Explorer • Android Developer • Graphic Designer
-</p>
-
 ---
 
 ## 🚀 About Me
