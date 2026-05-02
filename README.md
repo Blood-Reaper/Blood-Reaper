@@ -85,8 +85,8 @@
 
 ## 🔥 Current Projects
 
-* Power Sphere(Android)
+* City Services
 * Job Portal
-* Algorithum Analyzer 
+* Support Triage Agent
 
 ---
